@@ -1,3 +1,3 @@
 ## Table of Contents
 landing-page
-<img class="ui tiny right spaced image" src="/landing page.png">
+![alt text](https://raw.githubusercontent.com/uhclubhub/uhclubhub.github.io/master/langding%20page.png)
