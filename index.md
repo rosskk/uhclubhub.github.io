@@ -1,5 +1,6 @@
 * [Development History](#development-history)
 	* [Milestone 1](#milestone-1)
+* [Galaxy Deployment](#galaxy-deployment)
 
 # Development History
 
@@ -27,3 +28,7 @@ The goal of Milestone 1 was to create mockup HTML pages for the various pages th
 
 ### Edit Event Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
+
+#Galaxy Deployment
+
+[http://uhclubhub.meteorapp.com/](http://uhclubhub.meteorapp.com/)
