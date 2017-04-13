@@ -1,4 +1,11 @@
-* [Home Page](#HomePage)
+* [Development History](#development-history)
+	* [Milestone 1](#milestone-1)
+
+# Development History
+
+# Milestone 1
+
+The goal of Milestone 1 was to create mockup HTML pages for the various pages that will be a part of UH Club Hub.
 
 ## Landing Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
