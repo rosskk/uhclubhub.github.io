@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Installation](#installation)
+* [About UH Manoa Club Hub](# About UH Manoa Club Hub)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -8,6 +8,7 @@
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
 * [Galaxy Deployment](#galaxy-deployment)
+
 # About UH Manoa Club Hub
 
 UH Manoa Club Hub is a Meteor application Organizing Clubs in University of Hawaii community. When you come to the site, you'll come to a landing page:
