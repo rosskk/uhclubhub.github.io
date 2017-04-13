@@ -7,6 +7,7 @@
   * [Naming conventions](#naming-conventions)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
 * [Galaxy Deployment](#galaxy-deployment)
 
 # About UH Manoa Club Hub
@@ -122,7 +123,7 @@ This system adopts the following naming conventions:
 
 The goal of Milestone 1 was to create mockup HTML pages for the various pages that will be a part of UH Club Hub.
 
-Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Project M1](https://github.com/uhclubhub/uhclubhub/projects/1)
+Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Project M1.](https://github.com/uhclubhub/uhclubhub/projects/1)
 
 ### Landing Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
@@ -144,6 +145,10 @@ Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Pr
 
 ### Edit Event Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
+
+## Milestone 2
+
+Milestone 2 was started on April 13, 2017 and ends on April 25, 2017. The goal of Milestone 2 is to finish unfinished mockup pages and improve already existing ones, implement UH CAS authentication, and create the Collection for the Clubs. Milestone 2 is being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/2).
 
 # Galaxy Deployment
 
