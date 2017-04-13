@@ -8,6 +8,8 @@
 
 The goal of Milestone 1 was to create mockup HTML pages for the various pages that will be a part of UH Club Hub.
 
+Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Project M1](https://github.com/uhclubhub/uhclubhub/projects/1)
+
 ### Landing Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
 
