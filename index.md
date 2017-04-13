@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About UH Manoa Club Hub](#About UH Manoa Club Hub)
+* [About UH](#About UH)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
