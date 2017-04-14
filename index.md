@@ -4,7 +4,6 @@
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
-  * [Naming conventions](#naming-conventions)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
@@ -52,7 +51,7 @@ To have a better control of the website, someone can log in with a site administ
 
 # Installation
 
-1. [install Meteor](https://www.meteor.com/install).
+1. [Install Meteor](https://www.meteor.com/install).
 
 1. clone [UH Manoa Club Hub](https://github.com/ics-software-engineering/meteor-application-template/archive/master.zip) project using git.
   
@@ -67,9 +66,11 @@ To have a better control of the website, someone can log in with a site administ
 ```
 > meteor npm run start
 ```
+If you successfully run it, you will see the following in your prompt.
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/success.png "success screenshots")
 
+And the application will appear at [http://localhost:3000](http://localhost:3000). 
 # Application Design
 
 ## Directory structure
@@ -117,16 +118,6 @@ server/
    main.js       # import all the server-side js files.
 ```
  
-## Naming conventions
-
-This system adopts the following naming conventions:
-
-  * Files and directories are named in all lowercase, with words separated by hyphens. Example: accounts-config.js
-  * "Global" Javascript variables (such as collections) are capitalized. Example: Club.
-  * Other Javascript variables are camel-case. Example: collectionList.
-  * Templates representing pages are capitalized, with words separated by underscores. Example: Home_Page. The files for this template are lower case, with hyphens rather than underscore. Example: home-page.html, home-page.js.
-  * Routes to pages are named the same as their corresponding page. Example: Home_Page.
-
 # Development History
 
 ## Milestone 1
@@ -155,6 +146,11 @@ Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Pr
 
 ### Edit Event Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
+
+<img width="50%" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+<img width="50%" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/login-page.png"/>
+<img width="200px" src="images/directory.png"/>
+<img width="200px" src="images/filter.png"/>
 
 ## Milestone 2
 
