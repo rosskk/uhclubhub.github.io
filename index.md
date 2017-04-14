@@ -130,36 +130,47 @@ The pages we created for this milestone includes:
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
   
+* Login Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+
+* Home Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/home-page.png"/>
+
+* Create Club Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/add-club-page.png"/>
+
+* Edit Club Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-club.png"/> 
+
+* Create Event Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/create-even.png"/>
   
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
+* Edit Event Page
 
-### Login Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/login-page.png "Login Page")
-
-### Home Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/home-page.png "Home Page")
-
-### Create Club Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/add-club-page.png "Create Club Page")
-
-### Create Event Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/create-event.png "Create Event Page")
-
-### Edit Club Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-club.png "Edit Club Page")
-
-### Edit Event Page
-![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
-
-<img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
-<img width="50%" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/login-page.png"/>
-<img width="200px" src="images/directory.png"/>
-<img width="200px" src="images/filter.png"/>
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png"/>
 
 ## Milestone 2
 
-Milestone 2 was started on April 13, 2017 and ends on April 25, 2017. The goal of Milestone 2 is to finish unfinished mockup pages and improve already existing ones, implement UH CAS authentication, and create the Collection for the Clubs. Milestone 2 is being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/2).
+Milestone 2 was started on April 13, 2017 and ends on April 25, 2017. The goal of Milestone 2 is to finish unfinished mockup pages and improve already existing ones, implement UH CAS authentication, and create the Collection for the Clubs. The Gitbub issue page of this mile stone is shown [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M2%22). And it's progress is  being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/2).
 
+The mockup pages created includes:
+
+* List Club Page
+
+  <img width="500px" src="#"/>
+
+* Site admin Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/club-founder-admin.png"/>
+  
+* Club Admin Page
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/site-admin.png"/>  
 # Galaxy Deployment
 
-[http://uhclubhub.meteorapp.com/](http://uhclubhub.meteorapp.com/)
+The link to our galaxy deployment is [http://uhclubhub.meteorapp.com/](http://uhclubhub.meteorapp.com/)
