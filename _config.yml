@@ -2,6 +2,7 @@ title: UH Manoa Club Hub
 description: Hub for Clubs in the UH Community
 google_analytics:
 show_downloads: false
+repo: https://github.com/uhclubhub/uhclubhub
 theme: jekyll-theme-slate
 
 gems:
