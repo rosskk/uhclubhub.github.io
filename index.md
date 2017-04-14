@@ -118,7 +118,7 @@ Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Pr
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/issue-page.png "issue Page")
 
-And we also use [projects] feature on github to do the progress management.
+And we also use [projects](https://github.com/uhclubhub/uhclubhub/projects/1) feature on github to do the progress management.
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/project-page.png "Project Page")
 
@@ -126,9 +126,9 @@ So when ever we have an added issue, we will add it in the "Backlog" column, whe
 
 The pages we created for this milestone includes:
 
-
 * Landing Page
-  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+
+<img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
   
   
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
