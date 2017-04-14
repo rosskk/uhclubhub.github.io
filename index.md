@@ -75,17 +75,7 @@ And the application will appear at [http://localhost:3000](http://localhost:3000
 
 ## Directory structure
 
-The top-level directory structure contains:
-
-```
-app/        # holds the Meteor application sources
-config/     # holds configuration files, such as, your database configuration file, settings.json
-.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
-```
-
-This structure separates configuration files (such as the settings files) in the config/ directory from the actual Meteor application in the app/ directory.
-
-The app/ directory has this top-level structure:
+This App is designed with [meteor 1.4](https://guide.meteor.com/1.4-migration.html). And we also follow the Meteor 1.4 [Application Structure](https://guide.meteor.com/structure.html) guideline, for which we used an import/ directory in the app/ directory to hold our code. The structure of the app/ directory are shown below. 
 
 ```
 client/
@@ -124,9 +114,23 @@ server/
 
 The goal of Milestone 1 was to create mockup HTML pages for the various pages that will be a part of UH Club Hub.
 
-Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Project M1.](https://github.com/uhclubhub/uhclubhub/projects/1)
+Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Project M1.](https://github.com/uhclubhub/uhclubhub/projects/1). 
 
-### Landing Page
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/issue-page.png "issue Page")
+
+And we also use [projects] feature on github to do the progress management.
+
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/project-page.png "Project Page")
+
+So when ever we have an added issue, we will add it in the "Backlog" column, when we are working on a issue, we add it to the "In Progress" column, and when we are done, we close it and add it to the "Done" column. This keep our progress organized. By knowing what is done and who is working on what, it will be easier for the members to decide what to do first. 
+
+The pages we created for this milestone includes:
+
+
+* Landing Page
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+  
+  
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
 
 ### Login Page
@@ -147,7 +151,7 @@ Milestone 1 consisted of 10 issues, and was managed via the [uhclubhub GitHub Pr
 ### Edit Event Page
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
 
-<img width="50%" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+<img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
 <img width="50%" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/login-page.png"/>
 <img width="200px" src="images/directory.png"/>
 <img width="200px" src="images/filter.png"/>
