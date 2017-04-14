@@ -128,7 +128,7 @@ The pages we created for this milestone includes:
 
 * Landing Page
 
-<img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png"/>
   
   
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
