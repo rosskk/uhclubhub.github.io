@@ -158,7 +158,7 @@ The pages we created for this milestone includes:
 
 ## Milestone 2
 
-Milestone 2 was started on April 13, 2017 and ends on April 25, 2017. The goal of Milestone 2 is to finish unfinished mockup pages and improve already existing ones, implement UH CAS authentication, and create the Collection for the Clubs. The Gitbub issue page of this mile stone is shown [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M2%22). And it's progress is  being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/2).
+Milestone 2 was started on April 13, 2017 and ends on April 25, 2017. The goal of Milestone 2 is to finish unfinished mockup pages and improve already existing ones, implement UH CAS authentication, and create the Collection for the Clubs. The Gitbub issue page of this mile stone is shown [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M2%22). And it's progress is  being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/2)
 
 The mockup pages created includes:
 
