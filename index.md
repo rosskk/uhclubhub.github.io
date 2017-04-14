@@ -23,7 +23,9 @@ This web application is featured with three different users, the students, the c
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/home-page.png "Home Page")
 
-By clicking the "Club List" tab on the Menu of student homepage, you will go to club List page, which will contain all clubs available in University of Hawaii at Manoa. And this page is feaured with a interest search at the top of the page.
+By clicking the "Browse Clubs" tab on the Menu of student homepage, you will go to club List page (shown below), which will contain all clubs available in University of Hawaii at Manoa. And this page is feaured with a interest search at the top of the page.
+
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/club-listing-page.png "Browse Clubs Page")
 
 If you login with a club administrator's account, you will go to the founder's admin page, shown below. This page is a channel where you can access all the clubs you created. And it will also allow you to create a new club by clicking on the card, with "+" sign in it.
 
@@ -162,7 +164,7 @@ The mockup pages created includes:
 
 * List Club Page
 
-  <img width="500px" src="#"/>
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/club-listing-page.png"/>
 
 * Site admin Page
 
@@ -171,6 +173,7 @@ The mockup pages created includes:
 * Club Admin Page
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/site-admin.png"/>  
+
 # Galaxy Deployment
 
 The link to our galaxy deployment is [http://uhclubhub.meteorapp.com/](http://uhclubhub.meteorapp.com/)
