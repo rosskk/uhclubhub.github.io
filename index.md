@@ -12,33 +12,43 @@
 
 # About UH Manoa Club Hub
 
-UH Manoa Club Hub is a Meteor application Organizing Clubs in University of Hawaii community. When you come to the site, you'll come to a landing page:
+UH Manoa Club Hub is a Meteor application Organizing Clubs for University of Hawaii at Manoa. When you come to the site, you'll come to a landing page:
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/landing-page.png "Landing Page")
 
-From this the landing page, you can easily access the login page, shown below, by clicking on the login button. Everyone with a UH account can login. 
+From the landing page, you can easily access the login page, shown below, by clicking on the login button. Everyone with a UH account can login. 
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/login-page.png "Login Page")
 
-After you login, you will go to your personal student homepage (shown below). On top of the page, it will list all the clubs, which you are in. It's then followed by the upcomming events of your clubs. Your homepage will also allow you to search for a club by clicking the "Club List" tab on the Menu. And you can search based on area of interests.
+This web application is featured with three different users, the students, the club administrator and the website administrator. And different authorization goes to different users. When you log in as a student, you will go to your student homepage (shown below). On top of the page, it will list all the clubs, which you are in. It's then followed by the comming events of your clubs. 
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/home-page.png "Home Page")
 
-If you want to create a club, you will need to request a separate login. With that login info, you can go to club-founder's admin page, which will give you the authority to create/modify clubs and create/modify events for the club you created. 
+By clicking the "Club List" tab on the Menu of student homepage, you will go to club List page, which will contain all clubs available in University of Hawaii at Manoa. And this page is feaured with a interest search at the top of the page.
 
-The create club page is shown below. You simply need to fill in all the required information and then click submit. 
+If you login with a club administrator's account, you will go to the founder's admin page, shown below. This page is a channel where you can access all the clubs you created. And it will also allow you to create a new club by clicking on the card, with "+" sign in it.
+
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/club-founder-admin.png "founder admin Page")
+ 
+The following is the create club page. To create a club, you simply need to fill in all the required information and then click submit. 
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/add-club-page.png "Create Club Page")
 
-The following is modify club page. In this page will have the events you've created, followed by your club info. You can modify both your club info and the events through this page. To modify the events, you can simply click at the event card, then it will lead you modify event page. To create a event, you click at the card with "+" in it, and it will take you to a separate page which allow you to add more events.
+To modify the information of an existing club, you can click on the edit button on the bottom of the club card.And it will look like this: 
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-club.png "Edit Club Page")
 
-The create event page and edit event page are shown below:
+This page will show the events you've created, followed by your club info. To modify the events, you can simply click on the event card, then it will lead you modify event page. To create a event, you click at the card with "+" in it, and it will take you to a separate page which allow you to add more events.
+
+The create event page and edit event page are both shown below:
 
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/create-event.png "Create Event Page")
   
 ![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-event.png "Edit Event Page")
+
+To have a better control of the website, someone can log in with a site administrator login. this type of user can go the site admin page, shown below. And they will have the authority to hide or delete a club.
+
+![alt text](https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/site-admin.png "Site Admin Page")
 
 # Installation
 
