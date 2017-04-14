@@ -148,7 +148,7 @@ The pages we created for this milestone includes:
 
 * Create Event Page
 
-  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/create-even.png"/>
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/create-event.png"/>
   
 * Edit Event Page
 
