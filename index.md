@@ -177,7 +177,13 @@ The mockup pages created includes:
 * UH CAS Test Authentication
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/uh-cas-authentication.png"/>
-
+* Creation of Club collection
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
+  In this issue, we 
+  1. created the club collection in /imports/api/. 
+  2. create an initialization file, club.js in /imports/startup/server/
+  3. modified the browse-club-page.html and browse-club-page.js to link the content from collection, and allow the club in the database to show up iteratively.
+  
 ## Milestone 3
 
 Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of Milestone 3 is to create the database for user profiles. Milestone 3's progress is being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/3)
