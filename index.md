@@ -180,7 +180,8 @@ The mockup pages created includes:
 * Creation of Club collection
   
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
-  In this issue, we 
+ 
+ In this issue, we 
   1. created the club collection in /imports/api/. 
   2. create an initialization file, club.js in /imports/startup/server/
   3. modified the browse-club-page.html and browse-club-page.js to link the content from collection, and allow the club in the database to show up iteratively.
