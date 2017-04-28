@@ -178,6 +178,7 @@ The mockup pages created includes:
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/uh-cas-authentication.png"/>
 * Creation of Club collection
+  
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
   In this issue, we 
   1. created the club collection in /imports/api/. 
