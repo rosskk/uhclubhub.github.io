@@ -192,8 +192,8 @@ Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of M
 1. create the database for user profiles.
 2. create interest collection to implement sorting based on interest
 3. implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
-Milestone 3's issues are assigned  [here.](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22)
-Milestone 3's progress is being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/3)
+Milestone 3's issues are assigned  [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22). 
+And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3).
 
 # Galaxy Deployment
 
