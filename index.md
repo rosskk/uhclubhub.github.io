@@ -174,6 +174,14 @@ The mockup pages created includes:
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/site-admin.png"/>  
 
+* UH CAS Test Authentication
+
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/uh-cas-authentication.png"/>
+
+## Milestone 3
+
+Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of Milestone 3 is to create the database for user profiles. Milestone 3's progress is being managed [here.](https://github.com/uhclubhub/uhclubhub/projects/3)
+
 # Galaxy Deployment
 
 The link to our galaxy deployment is [http://uhclubhub.meteorapp.com/](http://uhclubhub.meteorapp.com/)
