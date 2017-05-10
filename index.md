@@ -8,6 +8,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
+  * [Initial User Testing](#Initial-User-Testing)
 * [Galaxy Deployment](#galaxy-deployment)
 
 # About UH Manoa Club Hub
@@ -190,11 +191,33 @@ The mockup pages created includes:
 ## Milestone 3
 
 Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of Milestone 3 includes
-1. create the database for user profiles.
-2. create interest collection to implement sorting based on interest
-3. implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
+## 1. create the database for user profiles.
+## 2. create interest collection to implement sorting based on interest
+
+
+## 3. implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
 Milestone 3's issues are assigned  [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22). 
 And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3).
+
+## Initial User Testing
+In order to do an initial user testing, I asked 5 students to test out my project. I didn't tell them much about this website is about, since being self-explanatory should also be part of the testing. I told them to goto [my host](http://uhclubhub.meteorapp.com/) to check out the site and tell me about what they like or what could be improved. And the following are the responds from them.
+
+Yunping (senior, major in Business): 
+"The layouts are nice, but I'm so consuded with what this site is about. I think you should have an About page, which can tell the user what this site provide us, and what we can do about it. "
+
+Jinping (senior, major in Business): 
+" Join Club is not doing anything. More information about the club would be expected. "
+
+Jipeng Huang (senior, major in computer Science): 
+"This app doesn't seem to be well designed for mobile devices. I tried you link and image of the landing page was not well proportioned, and I can only see part of the menu. The homepage looks weird as well, and I cannot logout "
+
+Lookuang (Senior, major in Art): 
+"I don't exactly know what what this site provide me. You probably need a user guide. "
+
+Haihong (Senior, major in Japanese): 
+"I wasn't sure where the homepage was initialy. When I click on UH Manoa ClubHub in the menu, it was not found. I'm pretty sure it showed up when I've just login.  "
+
+In conclusion, user responds told us that we should complete the functionalities, and make sure every link works; we should improve our UI design to make sure they work well more mobile devices as well; and we need an userguide page at least for the first time users. 
 
 # Galaxy Deployment
 
