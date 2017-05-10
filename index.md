@@ -8,7 +8,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
-  * [Initial User Testing](#Initial-User-Testing)
+  * [Initial User Testing](#initial-user-testing)
 * [Galaxy Deployment](#galaxy-deployment)
 
 # About UH Manoa Club Hub
@@ -191,15 +191,15 @@ The mockup pages created includes:
 ## Milestone 3
 
 Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of Milestone 3 includes
-## 1. create the database for user profiles.
-## 2. create interest collection to implement sorting based on interest
+### 1. create the database for user profiles.
+### 2. create interest collection to implement sorting based on interest
 
 
 ## 3. implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
 Milestone 3's issues are assigned  [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22). 
 And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3).
 
-## Initial User Testing
+### Initial User Testing
 In order to do an initial user testing, I asked 5 students to test out my project. I didn't tell them much about this website is about, since being self-explanatory should also be part of the testing. I told them to goto [my host](http://uhclubhub.meteorapp.com/) to check out the site and tell me about what they like or what could be improved. And the following are the responds from them.
 
 Yunping (senior, major in Business): 
