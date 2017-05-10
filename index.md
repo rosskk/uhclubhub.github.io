@@ -195,9 +195,9 @@ Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. And at the en
 * create the database for user profiles.
 * create interest collection to implement sorting based on interest
 
- <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
  
- I updated the broseclub page so that it allows the user to filter out the clubs based on interest. The filter works when the user choose an interest in the interest list. And it will filter automatically when user release the mouse.
+  I updated the broseclub page so that it allows the user to filter out the clubs based on interest. The filter works when the user choose an interest in the interest list. And it will filter automatically when user release the mouse.
 
 * implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
   
@@ -205,7 +205,7 @@ Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. And at the en
   
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-club.png"/>
   
-  In this task, I updated both add-club-page and edit-club-page. I involked forms control from [meteor-exaple-form] (https://ics-software-engineering.github.io/meteor-example-form/). That has made create-club-page.html a lot cleaner. This create club page also chesk the content of the input to make sure they are right type, and to make sure that all the required fields are filled. With a submission, the site will switch to the brose club page automatically. And I also make sure that whenever a usre added a club, the content will showup in a ui card in the browse club page. Edit club page is similar to create club page, except that the club information was filled. At the top of the edit club page, there's an additional event section. It contain all the events of this club. That means edit club also includes edit events. User can manage their events on Edit club page. 
+  In this task, I updated both add-club-page and edit-club-page. I involked forms control from [meteor-exaple-form](https://ics-software-engineering.github.io/meteor-example-form/). That has made create-club-page.html a lot cleaner. This create club page also chesk the content of the input to make sure they are right type, and to make sure that all the required fields are filled. With a submission, the site will switch to the brose club page automatically. And I also make sure that whenever a usre added a club, the content will showup in a ui card in the browse club page. Edit club page is similar to create club page, except that the club information was filled. At the top of the edit club page, there's an additional event section. It contain all the events of this club. That means edit club also includes edit events. User can manage their events on Edit club page. 
 
 Milestone 3's issues are assigned  [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22). 
 And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3). At the end of the milston we've closed all of the previously designed issues, except issue 20, create/edit event. The following are the screenshots of the milestone 3 issues and project progress.
