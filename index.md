@@ -203,18 +203,23 @@ And the project progress is being managed [here](https://github.com/uhclubhub/uh
 In order to do an initial user testing, I asked 5 students to test out my project. I didn't tell them much about this website is about, since being self-explanatory should also be part of the testing. I told them to goto [my host](http://uhclubhub.meteorapp.com/) to check out the site and tell me about what they like or what could be improved. And the following are the responds from them.
 
 Yunping (senior, major in Business): 
+
 "The layouts are nice, but I'm so consuded with what this site is about. I think you should have an About page, which can tell the user what this site provide us, and what we can do about it. "
 
 Jinping (senior, major in Business): 
+
 " Join Club is not doing anything. More information about the club would be expected. "
 
 Jipeng Huang (senior, major in computer Science): 
+
 "This app doesn't seem to be well designed for mobile devices. I tried you link and image of the landing page was not well proportioned, and I can only see part of the menu. The homepage looks weird as well, and I cannot logout "
 
 Lookuang (Senior, major in Art): 
+
 "I don't exactly know what what this site provide me. You probably need a user guide. "
 
 Haihong (Senior, major in Japanese): 
+
 "I wasn't sure where the homepage was initialy. When I click on UH Manoa ClubHub in the menu, it was not found. I'm pretty sure it showed up when I've just login.  "
 
 In conclusion, user responds told us that we should complete the functionalities, and make sure every link works; we should improve our UI design to make sure they work well more mobile devices as well; and we need an userguide page at least for the first time users. 
