@@ -179,6 +179,7 @@ The mockup pages created includes:
 * UH CAS Test Authentication
 
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/uh-cas-authentication.png"/>
+  
 * Creation of Club collection
   
   <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
@@ -190,16 +191,32 @@ The mockup pages created includes:
   
 ## Milestone 3
 
-Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. The goal of Milestone 3 includes
-### 1. create the database for user profiles.
-### 2. create interest collection to implement sorting based on interest
+Milestone 3 was started on April 27, 2017 and ends on May 9, 2017. And at the end of this mileston, we've accomplished the following:
+* create the database for user profiles.
+* create interest collection to implement sorting based on interest
 
+ <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/browse-club-updated.png"/>
+ 
+ I updated the broseclub page so that it allows the user to filter out the clubs based on interest. The filter works when the user choose an interest in the interest list. And it will filter automatically when user release the mouse.
 
-## 3. implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
+* implement the add/edit fuctionality to allow us to database with a form, and the edit an existing document in database.
+  
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/add-club-page.png"/>
+  
+  <img width="500px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/edit-club.png"/>
+  
+  In this task, I updated both add-club-page and edit-club-page. I involked forms control from [meteor-exaple-form] (https://ics-software-engineering.github.io/meteor-example-form/). That has made create-club-page.html a lot cleaner. This create club page also chesk the content of the input to make sure they are right type, and to make sure that all the required fields are filled. With a submission, the site will switch to the brose club page automatically. And I also make sure that whenever a usre added a club, the content will showup in a ui card in the browse club page. Edit club page is similar to create club page, except that the club information was filled. At the top of the edit club page, there's an additional event section. It contain all the events of this club. That means edit club also includes edit events. User can manage their events on Edit club page. 
+
 Milestone 3's issues are assigned  [here](https://github.com/uhclubhub/uhclubhub/issues?utf8=%E2%9C%93&q=milestone%3A%22M3%22). 
-And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3).
+And the project progress is being managed [here](https://github.com/uhclubhub/uhclubhub/projects/3). At the end of the milston we've closed all of the previously designed issues, except issue 20, create/edit event. The following are the screenshots of the milestone 3 issues and project progress.
 
-### Initial User Testing
+<img width="800px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/M3-issue.png"/>
+
+<img width="800px" src="https://github.com/uhclubhub/uhclubhub.github.io/raw/master/images/M3-project.png"/>
+
+
+
+## Initial User Testing
 In order to do an initial user testing, I asked 5 students to test out my project. I didn't tell them much about this website is about, since being self-explanatory should also be part of the testing. I told them to goto [my host](http://uhclubhub.meteorapp.com/) to check out the site and tell me about what they like or what could be improved. And the following are the responds from them.
 
 Yunping (senior, major in Business): 
